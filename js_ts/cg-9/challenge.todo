@@ -1,0 +1,3 @@
+Challenge 9: Desenvolver uma Função de Debounce
+
+Crie uma função de debounce que limite a frequência com que uma função é chamada. A função de debounce deve garantir que a função fornecida seja chamada apenas após um atraso específico desde a última chamada.

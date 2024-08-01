@@ -1,0 +1,10 @@
+Challenge 3: Async/Await Error Handling
+
+Objetivo: Implemente uma função assíncrona que faz uma chamada para uma API fictícia e lida com erros usando try...catch, que é um recurso importante do ES7 para manipulação de funções assíncronas.
+
+Instruções:
+
+Crie uma função assíncrona chamada fetchData que faz uma chamada para uma API fictícia e retorna uma promessa.
+Use await para esperar a resposta da API.
+Use um bloco try...catch para lidar com possíveis erros durante a chamada da API.
+Retorne os dados recebidos ou uma mensagem de erro se algo der errado.

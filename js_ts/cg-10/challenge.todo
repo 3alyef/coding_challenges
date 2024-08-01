@@ -1,0 +1,3 @@
+Challenge 10: Sequência de Fibonacci
+
+Implemente uma função que gera a sequência de Fibonacci até um determinado número n e retorna os números gerados em um array. Use um método eficiente para evitar cálculos redundantes.

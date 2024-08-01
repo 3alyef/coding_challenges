@@ -1,0 +1,10 @@
+Challenge 1: Array.prototype.includes
+
+Objetivo: Implemente uma função que verifica se um valor está presente em um array usando o método includes, que foi introduzido no ES7.
+
+Instruções:
+  Crie uma função chamada checkValue que aceita dois parâmetros: um array e um valor a ser pesquisado.
+
+  A função deve usar o método includes para verificar se o valor está presente no array.
+
+  Retorne true se o valor estiver presente e false caso contrário.

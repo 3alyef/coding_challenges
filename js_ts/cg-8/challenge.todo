@@ -1,0 +1,3 @@
+Challenge 8: Ordenação de Objetos
+
+Dado um array de objetos com uma propriedade numérica, crie uma função que ordena o array em ordem decrescente com base nessa propriedade.

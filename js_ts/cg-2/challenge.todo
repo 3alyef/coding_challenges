@@ -1,0 +1,8 @@
+Challenge 2: Exponentiation Operator
+
+Objetivo: Implemente uma função que calcula a potência de um número usando o operador de exponenciação (**), que foi introduzido no ES7.
+
+Instruções:
+
+Crie uma função chamada power que aceita dois parâmetros: a base e o expoente.
+A função deve retornar o resultado da base elevada ao expoente usando o operador de exponenciação.

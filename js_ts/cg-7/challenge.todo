@@ -1,0 +1,3 @@
+Challenge 7: Contagem de Ocorrências
+
+Crie uma função que conta a ocorrência de cada caractere em uma string e retorna um objeto com o caractere como chave e a contagem como valor.
